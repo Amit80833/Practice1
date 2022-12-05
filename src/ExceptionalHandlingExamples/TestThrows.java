@@ -14,7 +14,7 @@ public class TestThrows {
         catch (ArithmeticException e){
             System.out.println("Number cannot be divided by 0");
         }
-        System.out.println("rest of the code");
+        System.out.println("rest of the code ,edited in the github account online");
     }
 
 }
